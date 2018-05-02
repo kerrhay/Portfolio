@@ -1,0 +1,85 @@
+  #section1{
+      background-color:darkseagreen;
+      text-decoration: overline; 
+      font-family: 'Nixie One', cursive;
+      border-radius: 50%;
+      border-bottom-left-radius: 90%;
+      border-top-right-radius: 90%;
+            }
+
+
+ .row{
+                background-color:mintcream; font-family:monospace; 
+     padding:2px;
+     min-height: inherit;
+     min-width: inherit;
+            }
+
+          
+.col        {
+             border: 2px darkseagreen solid;  
+    padding: 2px
+            }
+#section6{ 
+            text-decoration: overline; border:white solid;
+            }
+h4 {
+    font-family: 'Nixie One', cursive; text-decoration-line: underline;
+}
+#pic{
+    margin-left: auto;
+    margin-right: auto;
+    width:30%;
+    display: block;
+}
+#jag{
+    margin-left: auto;
+    margin-right: auto;
+    width:100%;
+    display: block; 
+}
+body{
+  
+    background-size: contain;
+    background-attachment: scroll;  
+    background-color:transparent;
+}
+#past{
+    padding:10px;
+    font-size: 19px   
+}
+.Navbar a{ 
+    color: black;
+    font-family: 'Nixie One', cursive;
+    border:white solid; 
+    
+}
+.jumbotron{
+    margin-top: 20px;
+    background-image:url("../summertrees.img.jpg")
+        
+    
+    
+}
+nav:hover{
+    color: white;
+    text-decoration: underline;}
+
+.col1{
+ background-origin: content-box;
+    
+}
+
+h2{
+    font-family: 'Cedarville Cursive', cursive;
+}
+
+header{
+     -webkit-animation-duration: 3s;
+    -webkit-animation-delay: 1s;
+    }
+h1,h5{
+    font-family: 'Nixie One', cursive;
+}
+
+
